@@ -1,0 +1,141 @@
+
+body{
+    font-family: 'Roboto Mono', monospace;
+margin: 0;
+padding: 0;}
+.wrapper{
+    width: 80%;
+    margin: auto
+}
+a{
+    text-decoration: none;
+    color: aliceblue
+}
+.logo{
+    float: left;
+
+}
+.li1{
+    float: right;
+    list-style: none;
+    padding: 0px 15px;
+}
+.nav-menu{
+    float: right;
+}
+.img{
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-creative/img/bg-masthead.jpg);
+}
+.text{
+    color: aliceblue;
+    padding: 160px 0px;
+    text-align: center;
+}
+hr{
+border:2px solid #f4623a;
+width: 40px;}
+.text h1{
+    font-size: 60px;
+}
+.find{
+    background-color: #f4623a;
+    padding: 17px 25px;
+    border-radius: 30px;
+    color: white
+
+}
+.find:hover{
+    background-color: #661a05
+}
+.text p{
+    padding-bottom: 25px
+}
+.need{
+    text-align: center;
+    background-color: #f4623a;
+    padding: 170px;
+}
+.need hr{
+    border: 2px solid #fff;
+    width: 57px;
+}
+.need h1{
+    color: #fff;
+    font-size: 35px
+}
+.need p{
+    color: #fff;
+    padding-bottom: 15px;
+}
+.need a{
+    color: black;
+    background-color: #fff;
+    padding: 19px 23px;
+    border-radius: 30px;
+}
+.need a:hover{
+    background-color: rgb(189, 186, 186)
+}
+.services{
+    padding: 50px 0px;
+    text-align: center;
+}
+.services hr{
+border: 2px solid #f4623a
+}
+.services h1{
+    font-size: 32px
+}
+.icon{
+    width: 22%;
+    text-align: center;
+    float: left
+}
+.icon i{
+    color: #f4623a;
+    box-sizing: border-box;
+    font-size: 50px;
+    padding-top: 70px;
+    padding-bottom: 5px;
+}
+.pic{
+    display: flex;
+}
+.pic img{
+    width: 33.33%
+}
+img:hover{
+transform: scale(1.3);
+transition: transform
+}
+.free2{
+    text-align: center;
+    background-color: #343a40;
+    padding: 125px}
+
+.free2 h1{
+    color: #fff;
+    font-size: 30px;
+    padding-bottom: 15px
+}
+.free2 a{
+    background-color: #fff;
+    padding: 17px 25px;
+    border-radius: 30px;
+    color: #050505
+}
+.icon2{
+    width: 50%;
+    text-align: center;
+    float: left;
+    
+}
+.icon2 i{
+    font-size: 15px;
+    box-sizing: border-box
+}
+.end{
+    padding: 150px;
+    background-color: #fff;
+    text-align: center
+}
